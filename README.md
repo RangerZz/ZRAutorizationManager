@@ -1,0 +1,2 @@
+# ZRAutorizationManager
+iOS常见的权限状态和请求授权
