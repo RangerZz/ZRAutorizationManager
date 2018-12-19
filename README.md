@@ -31,6 +31,7 @@ typedef NS_ENUM(NSUInteger, ZRAutorizationStatus) {
 ```
 
 #### Tips
+* 记得在info.plist配置对应的权限描述
 * 由于定位权限API的特殊性,只建议参考`ZRAutorizationLocationManager`的调用方式,不建议直接使用'ZRAutorizationLocationManager',最好在需要的地方自己实现对应代码.
 
 -------
