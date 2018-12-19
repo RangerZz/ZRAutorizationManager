@@ -36,4 +36,5 @@ typedef NS_ENUM(NSUInteger, ZRAutorizationStatus) {
 
 -------
 权限相关的详细内容请查看[我的博客](https://rangerzz.github.io/post/ios%E5%B8%B8%E8%A7%81%E6%9D%83%E9%99%90%E6%8E%88%E6%9D%83/)
+
 欢迎补充建议交流提issue
